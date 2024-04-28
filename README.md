@@ -2,22 +2,22 @@
 
 ## 👋 Introducción
 
-¡Bienvenidos a mi perfil de GitHub! Soy Carlos, estudiante de Ingenieria de software en la UAQ. Me apasiona el desarrollo movil con react-native, especificamente el front-end asi como el UI y UX, siempre estoy buscando colaborar en proyectos interesantes 😊.
+¡Bienvenidos a mi perfil de GitHub! Me llamo Carlos y soy estudiante de Ingeniería de Software en la UAQ. Estoy profundamente involucrado en el desarrollo móvil, especialmente con React Native, y tengo una gran pasión por el diseño de interfaces y la experiencia de usuario. Siempre estoy en la búsqueda de proyectos innovadores y colaboraciones estimulantes. 😊
 
 ## 🌟 Sobre Mí
 
-- 🌱 **A que me dedico?**: Soy estudiante de *Ingenieria de Software* en la Universidad Autonoma de Queretaro .
-- 🔭 **Habilidades**: Cuento con conocimientos basicos de Java, JS, TypeScript.
-    - 🤔 **FrameWorks**: Estoy aprendiendo a utilizar React-native
-    - ⚡ **UX**: Complete el curso de Diseño CSS para paginas web impartido por la UAQ
+- 🌱 **A que me dedico?**: Actualmente, estoy cursando mi carrera en Ingeniería de Software en la Universidad Autónoma de Querétaro.
+- 🔭 **Habilidades**: Poseo una base sólida en Java, JavaScript y TypeScript.
+    - 🤔 **FrameWorks**: Estoy perfeccionando mis habilidades en React Native.
+    - ⚡ **UX**: He completado con éxito un curso de Diseño CSS para páginas web ofrecido por la UAQ.
 
 ## 📚 Proyectos Destacados
-He desarrollado por mi cuenta algunos proyectos personales, aqui puedes ingrtesar a los mas destacados: 
+He trabajado en varios proyectos personales que reflejan mi habilidad y creatividad. Aquí puedes explorar algunos de los más destacados:
 1. [Mi portafolio.](https://github.com/Carlos161104/Portafolio)
 
 
 ## 📫 Contacto
-
+Para cualquier consulta o si estás interesado en colaborar, no dudes en contactarme:
 - **GitHub**: [Carlos161104](https://github.com/Carlos161104/Carlos161104)
 - **Instagram**: [carlos_noguezj](https://www.instagram.com/carlos_noguezj/#)
 - **Correo Electrónico**: Canoja161104@gmail.com
