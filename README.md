@@ -1,23 +1,23 @@
-# Hola, soy Carlos Noguez Juarez
+# Hi, I am Carlos Noguez Juarez
 
-## 👋 Introducción
+## 👋  Introduction
 
-¡Bienvenidos a mi perfil de GitHub! Me llamo Carlos y soy estudiante de Ingeniería de Software en la UAQ. Estoy profundamente involucrado en el desarrollo móvil, especialmente con React Native, y tengo una gran pasión por el diseño de interfaces y la experiencia de usuario. Siempre estoy en la búsqueda de proyectos innovadores y colaboraciones estimulantes. 😊
+Welcome to my GitHub profile! My name is Carlos, and I am a Software Engineering student at UAQ. I am deeply involved in mobile development, especially with React Native, and have a great passion for interface design and user experience. I am always on the lookout for innovative projects and stimulating collaborations. 😊
 
-## 🌟 Sobre Mí
+## 🌟  About Me
 
-- 🌱 **A que me dedico?**: Actualmente, estoy cursando mi carrera en Ingeniería de Software en la Universidad Autónoma de Querétaro.
-- 🔭 **Habilidades**: Poseo una base sólida en Java, JavaScript y TypeScript.
-    - 🤔 **FrameWorks**: Estoy perfeccionando mis habilidades en React Native.
-    - ⚡ **UX**: He completado con éxito un curso de Diseño CSS para páginas web ofrecido por la UAQ.
+- 🌱 ** What do I do?**: Currently, I am pursuing my degree in Software Engineering at the Autonomous University of Querétaro.
+- 🔭 **Skills**: I have a solid foundation in Java, JavaScript, and TypeScript.
+    - 🤔 **FrameWorks**: I am honing my skills in React Native.
+    - ⚡ **UX**: I have successfully completed a CSS Design course for web pages offered by UAQ.
 
-## 📚 Proyectos Destacados
-He trabajado en varios proyectos personales que reflejan mi habilidad y creatividad. Aquí puedes explorar algunos de los más destacados:
-1. [Mi portafolio.](https://github.com/Carlos161104/Portafolio)
+## 📚  Featured Projects
+I have worked on several personal projects that reflect my ability and creativity. Here you can explore some of the most notable ones:
+1. [My portfolio.](https://github.com/Carlos161104/Portafolio)
 
 
 ## 📫 Contacto
-Para cualquier consulta o si estás interesado en colaborar, no dudes en contactarme:
+For any inquiries or if you are interested in collaborating, feel free to contact me:
 - **GitHub**: [Carlos161104](https://github.com/Carlos161104/Carlos161104)
 - **Instagram**: [carlos_noguezj](https://www.instagram.com/carlos_noguezj/#)
 - **Correo Electrónico**: Canoja161104@gmail.com
