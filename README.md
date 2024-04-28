@@ -16,7 +16,7 @@ I have worked on several personal projects that reflect my ability and creativit
 1. [My portfolio.](https://github.com/Carlos161104/Portafolio)
 
 
-## 📫 Contacto
+## 📫 Contact
 For any inquiries or if you are interested in collaborating, feel free to contact me:
 - **GitHub**: [Carlos161104](https://github.com/Carlos161104/Carlos161104)
 - **Instagram**: [carlos_noguezj](https://www.instagram.com/carlos_noguezj/#)
