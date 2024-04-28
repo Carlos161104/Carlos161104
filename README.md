@@ -13,13 +13,13 @@
 
 ## 📚 Proyectos Destacados
 He desarrollado por mi cuenta algunos proyectos personales, aqui puedes ingrtesar a los mas destacados: 
-1. [Mi portafolio.] (https://github.com/Carlos161104/Portafolio)
+1. [Mi portafolio.](https://github.com/Carlos161104/Portafolio)
 
 
 ## 📫 Contacto
 
-- **GitHub**: [Carlos161104][https://github.com/Carlos161104/Carlos161104]
-- **Instagram**: [carlos_noguezj] [https://www.instagram.com/carlos_noguezj/#]
+- **GitHub**: [Carlos161104](https://github.com/Carlos161104/Carlos161104)
+- **Instagram**: [carlos_noguezj](https://www.instagram.com/carlos_noguezj/#)
 - **Correo Electrónico**: Canoja161104@gmail.com
 
 
