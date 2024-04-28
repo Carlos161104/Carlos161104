@@ -6,7 +6,7 @@ Welcome to my GitHub profile! My name is Carlos, and I am a Software Engineering
 
 ## 🌟  About Me
 
-- 🌱 ** What do I do?**: Currently, I am pursuing my degree in Software Engineering at the Autonomous University of Querétaro.
+- 🌱 **What do I do?**: Currently, I am pursuing my degree in Software Engineering at the Autonomous University of Querétaro.
 - 🔭 **Skills**: I have a solid foundation in Java, JavaScript, and TypeScript.
     - 🤔 **FrameWorks**: I am honing my skills in React Native.
     - ⚡ **UX**: I have successfully completed a CSS Design course for web pages offered by UAQ.
