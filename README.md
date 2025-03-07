@@ -8,19 +8,15 @@ Welcome to my GitHub profile! My name is Carlos, and I am a Software Engineering
 
 - 🌱 **What do I do?**: Currently, I am pursuing my degree in Software Engineering at the Autonomous University of Querétaro.
 - 🔭 **Skills**: I have a solid foundation in Java, JavaScript, and TypeScript.
-    - 🤔 **FrameWorks**: I am honing my skills in React Native.
+    - 🤔 **FrameWorks**: I am honing my skills in React Native, NextJs, NestJs, Flutter.
     - ⚡ **UX**: I have successfully completed a CSS Design course for web pages offered by UAQ.
-
-## 📚  Featured Projects
-I have worked on several personal projects that reflect my ability and creativity. Here you can explore some of the most notable ones:
-1. [My portfolio.](https://github.com/Carlos161104/Portafolio)
 
 
 ## 📫 Contact
 For any inquiries or if you are interested in collaborating, feel free to contact me:
 - **GitHub**: [Carlos161104](https://github.com/Carlos161104/Carlos161104)
 - **Instagram**: [carlos_noguezj](https://www.instagram.com/carlos_noguezj/#)
-- **Correo Electrónico**: Canoja161104@gmail.com
+- **EMail**: Canoja161104@gmail.com
 
 
 
